@@ -37,5 +37,22 @@ Bias:
 Step 3: Process
 I’m choosing R for the majority of this project as I can clean, analyze, and visualize all in one program which helps keep everything organized. I also believe that it’s easiest to convert data types and clean string variables in R for large data sets.
 
-The Changelog can be founf in the appendix of the presentation.
+The Changelog can be found in the appendix at the end of the presentation.
 
+Step 4: Analyze 
+
+I imported the three datasets into R and named them easy to remember names, activity, sleep, and weight. I cleaned all the datasets and renamed columns as needed to keep them as uniform as possible.
+
+Some metrics and relationships found:
+(R code and presentation can be found here on GitHub
+* Total steps
+* Total distance
+* Relationship between intensity level and distance traveled
+* Relationship between time asleep and time in bed
+* Intensity levels throughout the day
+
+Steps 5 and 6: Share and Act
+Top 3 Recommendations based on this analysis:
+* Target the working class by marketing the Leaf to promote more physical activity throughout the day.
+* Advertise features that promote better sleep such as reminders to complete certain amount of activity before bedtime and to turn off electronics before getting into bed.
+* Increase advertising efforts in gyms and fitness centers during evenings.
