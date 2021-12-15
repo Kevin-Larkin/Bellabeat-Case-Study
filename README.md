@@ -35,6 +35,7 @@ Bias:
 * Cited-  It’s cited as Fitbit data as well as the survey, Amazon Mechanical Turk, so yes it’s cited. 
 
 Step 3: Process
+
 I’m choosing R for the majority of this project as I can clean, analyze, and visualize all in one program which helps keep everything organized. I also believe that it’s easiest to convert data types and clean string variables in R for large data sets.
 
 The Changelog can be found in the appendix at the end of the presentation.
