@@ -1,5 +1,7 @@
 # Bellabeat Case Study
 
+This repository includes the description of the data analysis process for this project (found below), the PowerPoint presentation, and R Markdown.
+
 Step 1: Ask
 
 The questions being asked in this analysis:
@@ -45,7 +47,6 @@ Step 4: Analyze
 I imported the three datasets into R and named them easy to remember names, activity, sleep, and weight. I cleaned all the datasets and renamed columns as needed to keep them as uniform as possible.
 
 Some metrics and relationships found:
-(R code and presentation can be found here on GitHub
 * Total steps
 * Total distance
 * Relationship between intensity level and distance traveled
